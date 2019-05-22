@@ -1,13 +1,1 @@
-LearnPythonTheHardWay
-=====================
-
-Shaw's Learn Python The Hard Way book http://learnpythonthehardway.org/
-
-Learning with the LA Makerspace community.
-
-Resources
-=========
-
-* http://tinwhiskers.net/
-* http://www.codecademy.com/tracks/python
-"# python-ICN" 
+## Course materials for Applications of Computers in Cognitive Neuroscience
